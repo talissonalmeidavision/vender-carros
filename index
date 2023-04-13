@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Plano de treinamento de vendas</title>
+</head>
+<body>
+	<h1>Plano de treinamento de vendas</h1>
+	<table>
+		<thead>
+			<tr>
+				<th>Semana</th>
+				<th>Objetivos</th>
+				<th>Atividades</th>
+				<th>Recursos</th>
+				<th>Avaliação</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td>Conhecer o veículo</td>
+				<td>Identificar os principais concorrentes e comparar seus recursos e vantagens.</td>
+				<td>Folhetos de vendas, sites dos concorrentes, amostras de veículos</td>
+				<td>Análise comparativa dos recursos e vantagens dos concorrentes.</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Conhecer o mercado</td>
+				<td>Pesquisar e analisar o perfil dos clientes potenciais, como idade, gênero, renda, estilo de vida, etc. <br> Identificar as principais necessidades e desejos do cliente em termos de carro, como economia de combustível, segurança, espaço, conforto, etc. <br> Aprender as principais técnicas de negociação de vendas e atendimento ao cliente.</td>
+				<td>Pesquisas online, entrevistas com clientes, treinamentos de vendas</td>
+				<td>Relatórios de análise de perfil dos clientes potenciais, análise das necessidades e desejos dos clientes e relatórios de desempenho nas atividades de vendas.</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>Prática de Vendas</td>
+				<td>Observar o processo de vendas de um vendedor experiente <br> Participar em vendas de carros com um vendedor experiente <br> Praticar suas habilidades de vendas com clientes simulados</td>
+				<td>Acompanhamento de vendedores experientes, simulações de vendas</td>
+				<td>Relatórios de observação e participação nas vendas, avaliação de desempenho nas simulações de vendas</td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>Análise dos resultados</td>
+				<td>Analisar suas vendas semanais e buscar oportunidades para aperfeiçoamento <br> Pedir feedbacks aos clientes que você atendeu e procurar melhorar pontos negativos levantados</td>
+				<td>Relatórios de vendas, feedbacks dos clientes</td>
+				<td>Análise das vendas semanais, identificação de oportunidades de aperfeiçoamento, análise dos feedbacks dos clientes e identificação de pontos negativos para melhorar.</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
